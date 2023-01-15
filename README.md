@@ -1,6 +1,12 @@
 # Groupe 10
 ### Travaux pratiques de construction de Cube OLAP
 
+## Membres du groupe
+- ATTITSOGBE Yao Daniel (https://github.com/milkiyd/)
+- AWOUNO Kossi Winner (https://github.com/windev0)
+- MOHAMED Araphat (https://github.com/rajamouha29)
+
+
 ## Introduction
 Face a des problemes de qualité de données et la necessite de se doter d’outils permettant d’apprehender leurs données de maniere globale, la societe Distrisys  grossiste de grands et petits appareils d’électroménager decide de mettre en place un systeme decisionnel. Ce fut l'objet de notre projet, après une série d'étapes
 
